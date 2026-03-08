@@ -17,6 +17,7 @@ export default async function handler(req, res) {
     "apis.roblox.com",
     "catalog.roblox.com",
     "economy.roblox.com",
+    "friends.roblox.com", 
   ];
 
   let targetUrl;
